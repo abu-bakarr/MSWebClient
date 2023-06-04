@@ -2,6 +2,18 @@
 
 To get started with application, you must firs download [NodeJS](https://nodejs.org/en)
 
+## clone the repo.
+
+```sh
+git clone https://github.com/abu-bakarr/MSWebClient
+```
+
+## navigate to the MSWebClient
+
+```sh
+cd MSWebClient
+```
+
 ## Project Setup
 
 ```sh
